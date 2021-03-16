@@ -1,0 +1,6 @@
+Mela,Chinese,25
+Mela,Mexican,25
+Mela,Mexcian,24
+chab,banglad,100
+Chit,Banglad,800
+mala,Abuldac,125215321221
